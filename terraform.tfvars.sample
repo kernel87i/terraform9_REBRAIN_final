@@ -1,0 +1,19 @@
+#key access
+do_token = ""
+
+#location VPS
+vscale_msk = ""
+
+#image VPS
+vscale_centos_7 = ""
+
+#access_key in AWS
+access_key = ""
+
+#secret_key in AWS
+secret_key = ""
+
+#This is the AWS region
+region = ""
+
+
